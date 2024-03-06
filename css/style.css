@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    background-color: crimson;
+    font-size: 60px;
+    font-family: Georgia, Garamond, serif;
+}
+
+ul {
+    font-size: 32px;
+    font-family: Helvetica, Verdana, sans-serif;
+    color: #0000FF;
+}
