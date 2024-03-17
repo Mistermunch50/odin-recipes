@@ -3,10 +3,23 @@ h1 {
     background-color: crimson;
     font-size: 60px;
     font-family: Georgia, Garamond, serif;
+    margin: 40px;
+    text-align: center;
 }
 
 ul {
     font-size: 32px;
     font-family: Helvetica, Verdana, sans-serif;
-    color: #0000FF;
+    color: #000000;
+    list-style-type: none;
+    text-align: center;
+    
+}
+
+li {
+    margin: 8px;
+}
+
+a, a:visited, a:hover, a:active {
+    color: inherit;
 }
